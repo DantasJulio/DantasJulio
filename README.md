@@ -1,5 +1,5 @@
 - 👋 Olá! Meu nome é Julio César!
-- 👀 Amo tecnologia e estou iniciando com **desenvolvimento de software**.
-- 🌱 Já possuo um conhecimento básico das tecnologias do *front-end*, porém estou estudando Java e seus paradigmas, além de frameworks como Spring e também Banco de Dados para o back-end.
-- 💞️ Estou buscando projetos para colaborar e também para aprender na prática.
+- 👀 Sou **desenvolvedor de software** e amo tecnologia!
+- 🌱 Possuo 1 ano de experiência real desenvolvendo com Java e Spring Boot, além de construir aplicações com arquitetura REST e também arquitetura baseada em microsserviços. Possuo também experiência com testes untiários utilizando JUnit e Mockito, correção de bugs e análise de código. Trabalho também com persistência de dados, manutenção e construição de rotinas de banco.
+- 💞️ Nunca paro de aprender, estou sempre buscando adquirir mais conhecimento e adicionar ao meu portfólio.
 - 📫 Para entrar em contato basta me enviar um e-mail em: juliodantas19@gmail.com ou no meu linkedin: linkedin.com/in/júlio-dantas-0a9665109/
