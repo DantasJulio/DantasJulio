@@ -13,7 +13,7 @@
 
 ### 📊 Minhas Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dantas_Julio&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DantasJulio&layout=compact&theme=radical)
 
 ---
 
