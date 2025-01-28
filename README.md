@@ -1,4 +1,9 @@
-# Olá! 👋 Bem-vindo ao meu perfil!
+# Olá! 👋 
+If (lang == "PT-BR") {
+  Bem-vindo!
+  } else { 
+  Welcome! 
+  }
 
   Eu sou Julio César 👨‍💻, desenvolvedor apaixonado por tecnologia. Aqui você pode encontrar os projetos nos quais estou trabalhando e minha contribuição para o mundo tec.
 
